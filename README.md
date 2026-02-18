@@ -10,7 +10,8 @@
 - [Usage](#usage)  
 - [Troubleshooting](#troubleshooting)  
 - [Contributing](#contributing)  
-- [License](#license)  
+ 
+---
 
 ## Introduction  
 This guide provides step-by-step instructions for setting up an Ubuntu instance on AWS EC2 to ensure a productive and efficient environment.
@@ -41,6 +42,3 @@ We welcome contributions! To contribute:
 1. Fork the repository  
 2. Create a new branch  
 3. Submit a pull request for review.
-
-## License  
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
