@@ -23,7 +23,7 @@ This repository provides clear, step-by-step instructions for creating, configur
 
 ---
 
-## 📌 Prerequisites
+## 📌Prerequisites
 
 Before starting, ensure you have:
 
@@ -34,7 +34,7 @@ Before starting, ensure you have:
 
 ---
 
-## 🚀 1. Launch an EC2 Ubuntu Instance
+## 🚀1.Launch an EC2 Ubuntu Instance
 
 ### Step 1 — Open EC2 Dashboard
 1. Log in to the AWS Console  
@@ -60,7 +60,7 @@ Click **Launch Instance** and wait for initialization.
 
 ---
 
-## 🔑 2. Connect to Your Instance
+## 🔑2.Connect to Your Instance
 
 ### Find Public IP
 - Go to **EC2 → Instances**
@@ -93,7 +93,7 @@ sudo usermod -aG sudo <username>
 ```
 ---
 
-## 🔐 4. Security Hardening
+## 🔐4.Security Hardening
 
 Enable UFW Firewall:
 ```bash
