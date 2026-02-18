@@ -34,7 +34,7 @@ Before starting, ensure you have:
 
 ---
 
-## 🚀1.Launch an EC2 Ubuntu Instance
+## 🚀1. Launch an EC2 Ubuntu Instance
 
 ### Step 1 — Open EC2 Dashboard
 1. Log in to the AWS Console  
