@@ -16,8 +16,6 @@ This repository provides clear, step-by-step instructions for creating, configur
   - [SSH Access](#ssh-access)
 - [3. Initial Server Configuration](#3-initial-server-configuration)
 - [4. Security Hardening](#4security-hardening)
-  - [Enable UFW Firewall](#enable-ufw-firewall)
-  - [Disable Root SSH Login (Optional)](#disable-root-ssh-login-optional)
 - [Optional](#optional)
 
 ---
@@ -75,7 +73,7 @@ ssh -i your-key.pem ubuntu@<PUBLIC-IP>
 ```
 ---
 
-## 🛠️ 3. Initial Server Configuration
+## 🛠️3.Initial Server Configuration
 
 Update Packages:
 ```bash
