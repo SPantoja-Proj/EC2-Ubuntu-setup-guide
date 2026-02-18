@@ -14,7 +14,7 @@ This repository provides clear, step-by-step instructions for creating, configur
 - [2.Connect to Your Instance](#2connect-to-your-instance)
   - [Find Public IP](#find-public-ip)
   - [SSH Access](#ssh-access)
-- [3.Initial Server Configuration](#️3-initial-server-configuration)
+- [3.Initial Server Configuration](#️3initial-server-configuration)
 - [4.Security Hardening](#4security-hardening)
 - [Optional](#optional)
 
