@@ -78,11 +78,11 @@ ssh -i your-key.pem ubuntu@<PUBLIC-IP>
 
 ## 🛠️3.Initial Server Configuration
 
-Update Packages:
+Update Packages
 ```bash
 sudo apt update && sudo apt upgrade -y
 ```
-Install Basic Tools:
+Install Basic Tools
 ```bash
 sudo apt install -y git curl unzip htop
 ```
