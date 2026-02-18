@@ -15,7 +15,10 @@ This repository provides clear, step-by-step instructions for creating, configur
   - [Find Public IP](#find-public-ip)
   - [SSH Access](#ssh-access)
 - [3.Initial Server Configuration](#️3initial-server-configuration)
+  - [Update Packages](#update-packages)
+  - [Install Basic Tools](#install-basic-tools)
 - [4.Security Hardening](#4security-hardening)
+  - [Enable UFW Firewall](#enable-ufw-firewall)
 - [Optional](#optional)
 
 ---
