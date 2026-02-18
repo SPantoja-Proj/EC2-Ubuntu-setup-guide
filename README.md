@@ -6,20 +6,19 @@ This repository provides clear, step-by-step instructions for creating, configur
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
-- [1.Launch an EC2 Ubuntu Instance](#1-launch-an-ec2-ubuntu-instance)
+- [1.Launch an EC2 Ubuntu Instance](#1launch-an-ec2-ubuntu-instance)
   - [Step 1 — Open EC2 Dashboard](#step-1--open-ec2-dashboard)
   - [Step 2 — Configure Instance](#step-2--configure-instance)
   - [Step 3 — Storage](#step-3--storage)
   - [Step 4 — Launch](#step-4--launch)
-- [2. Connect to Your Instance](#2-connect-to-your-instance)
+- [2.Connect to Your Instance](#2connect-to-your-instance)
   - [Find Public IP](#find-public-ip)
   - [SSH Access](#ssh-access)
 - [3. Initial Server Configuration](#3-initial-server-configuration)
-- [4. Security Hardening](#4-security-hardening)
+- [4. Security Hardening](#4security-hardening)
   - [Enable UFW Firewall](#enable-ufw-firewall)
   - [Disable Root SSH Login (Optional)](#disable-root-ssh-login-optional)
-- [Optional: Install Common Server Software](#optional-install-common-server-software)
-  - [Install Docker](#install-docker)
+- [Optional](#optional)
 
 ---
 
