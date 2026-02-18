@@ -6,7 +6,7 @@ This repository provides clear, step-by-step instructions for creating, configur
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
-- [1. Launch an EC2 Ubuntu Instance](#1-launch-an-ec2-ubuntu-instance)
+- [1.Launch an EC2 Ubuntu Instance](#1-launch-an-ec2-ubuntu-instance)
   - [Step 1 — Open EC2 Dashboard](#step-1--open-ec2-dashboard)
   - [Step 2 — Configure Instance](#step-2--configure-instance)
   - [Step 3 — Storage](#step-3--storage)
@@ -34,7 +34,7 @@ Before starting, ensure you have:
 
 ---
 
-## 🚀1. Launch an EC2 Ubuntu Instance
+## 🚀1.Launch an EC2 Ubuntu Instance
 
 ### Step 1 — Open EC2 Dashboard
 1. Log in to the AWS Console  
